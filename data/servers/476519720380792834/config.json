@@ -1,0 +1,9 @@
+{
+    "modlogsid": 492165353544351745,
+    "enablenewmemberchannel": true,
+    "newmemberchannel": "477196977596137472",
+    "newmembermessage": "Welcome to {}, <@{}>! Read <#477198353541627913> and you're set, enjoy!",
+    "enablememberleftmessage": true,
+    "leftguildmessage": "Later {}!",
+    "lockdownmode": false
+}

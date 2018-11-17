@@ -1,0 +1,1 @@
+start cmd.exe /k "py P:\discord_bot_v2\main.py"
